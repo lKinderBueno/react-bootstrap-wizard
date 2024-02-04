@@ -70,7 +70,7 @@
     },
     "peerDependencies": {
         "react": "18.x.x",
-        "reactstrap": "8.x.x",
+        "reactstrap": "9.x.x",
         "prop-types": "15.x.x",
         "classnames": "2.x.x"
     },
