@@ -3,10 +3,6 @@
     "version": "0.0.9",
     "description": "A react component package that allows you to split a complicated flow or a complicated form in multiple steps.",
     "main": "dist/index.js",
-    "scripts": {
-        "build-css": "node-sass-chokidar ./dist/react-wizard.scss -o dist/",
-        "build": "mkdir -p dist && babel index.js -o dist/index.js && npm run build-css"
-    },
     "babel": {
         "presets": [
             "@babel/preset-react",
